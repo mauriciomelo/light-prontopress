@@ -27,3 +27,10 @@ Version 1.0
 
 	i) Removed rtl.css
 	ii) Corrected Language File, protopress.pot
+	
+Version 1.0.0.1
+
+	i) Correction to Theme URI
+	ii) Renamed Changelog.txt
+	iii) CSS fixes for Better Mobile Performance.	
+	
