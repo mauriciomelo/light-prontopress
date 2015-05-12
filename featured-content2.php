@@ -31,6 +31,8 @@
 			<a href="#"><i class="fa fa-chevron-circle-right"></i></a>
 			<a href="#"><i class="fa fa-chevron-circle-left"></i></a>
 		</div>
+
+		<?php if (function_exists ('adinserter')) echo adinserter (1); ?>
 	</div>
 
 	<div class="popular-articles col-md-6">
